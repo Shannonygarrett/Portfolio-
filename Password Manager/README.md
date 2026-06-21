@@ -1,4 +1,4 @@
-# Password Manager  
+# Password Manager
 
 ## Description  
 This **Password Manager** is a secure, web-based application developed using Python, Flask, and SQL. It is designed to help users securely store, retrieve, and manage their passwords. The system incorporates strong encryption techniques to ensure data privacy and security.  
