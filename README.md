@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m Shannon Mcelderry, a dedicated software developer and aspiring engineer with a passion for solving problems and building impactful applications. With a background in network engineering and coding, I thrive on designing and optimizing projects that blend functionality with innovation.
+Hi, I’m Shannon Garrett, a dedicated software developer and aspiring engineer with a passion for solving problems and building impactful applications. With a background in network engineering and coding, I thrive on designing and optimizing projects that blend functionality with innovation.
 
 Skills
 
