@@ -23,5 +23,5 @@ To create software solutions that make an impact while continuously expanding my
 
 Contact Me
 
-	•	GitHub: ShannonMcEld
-	•	Email: Shannonmceld@gmail.com
+	•	GitHub: Shannonygarrett
+	•	Email: Shannonygarrett@gmail.com
